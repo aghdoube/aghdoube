@@ -1,31 +1,36 @@
-# Hi there, I'm Hayat! 
+# Hi there, I'm Hayat!
 
-I am a **Junior Full-Stack Web Developer transitioning into AWS Cloud Engineering**. Having completed a comprehensive web development bootcamp focused on building scalable, dynamic web applications with **React, Node.js, Express, and MongoDB**, I am passionate about writing clean, efficient code. 
+I'm a **Junior Full-Stack Web Developer currently learning AWS Cloud Engineering**.
 
-Currently, I am expanding my expertise into cloud architecture and infrastructure engineering. My background in full-stack development bridges the gap between software code and modern cloud systems, allowing me to build application-aware architecture on AWS.
+I completed a web development bootcamp where I worked with React, Node.js, Express and MongoDB. During that time, I built frontend and backend applications and got comfortable working with APIs, databases and different development tools.
 
----
-
-### ☁️ Cloud & Full-Stack Tech Matrix
-*   **Cloud Architecture:** Amazon Web Services (AWS) — EC2 instances, S3 buckets, IAM policies, VPC subnets
-*   **Infrastructure & Automation:** Linux System Administration, Bash scripting pipelines
-*   **Frontend Engineering:** React, Vite, Tailwind CSS, Semantic HTML5/CSS3 responsive layouts
-*   **Backend & Databases:** Node.js, Express REST APIs, MongoDB (Mongoose), PostgreSQL (Sequelize)
+Recently, I've started focusing more on Linux, networking and AWS. I'm currently learning how cloud infrastructure works, how to deploy applications and how to automate basic server tasks. I'm still building my experience, but I enjoy learning by working on practical projects and figuring things out along the way.
 
 ---
 
-### 🚀 Highlighted Engineering Repositories
+### ☁️ Technologies & Tools
 
-*   **[aws-ec2-lab](https://github.com):** Blueprints and documentation for corporate network architectures on AWS.
-*   **[linux-practice](https://github.com):** System automation engines and deep-dive Linux tracking frameworks.
-*   **[pokemon-battle-frontend](https://github.com):** A modern React 19 single-page dashboard utilizing responsive layout modules.
-*   **[pokemon-battle-backend](https://github.com):** A dual-database Node.js cluster balancing transaction scopes between NoSQL and SQL layers.
-*   **[capstone-Hub](https://github.com):** A multi-application static ecosystem decoupled and prepared for global CDN distribution.
+- **Cloud:** AWS (EC2, S3, IAM, VPC)
+- **Linux & Automation:** Linux, Bash scripting, Python basics
+- **Frontend:** React, Vite, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, Mongoose, PostgreSQL, Sequelize
 
 ---
 
-### 📬 Let's Collaborate!
-I am highly eager to collaborate on engineering projects—especially those that bridge advanced full-stack systems with cloud infrastructure tiers.
+### 🚀 My Projects
 
-*   **Email:** [aghdoubehayat@gmail.com](mailto:aghdoubehayat@gmail.com)
+- **[aws-ec2-lab](https://github.com):** My first AWS infrastructure exercises, including launching EC2 instances, configuring security groups and using User Data scripts to automate server setup.
+- **[linux-practice](https://github.com):** A collection of Linux command-line exercises, Bash scripts and basic Python file operations.
+- **[skillswap-frontend](https://github.com):** React and Tailwind CSS frontend for my bootcamp final project, where users can share skills and connect with others.
+- **[pokemon-battle-frontend](https://github.com):** A React 19 single-page application for a Pokémon Battle game, styled with Tailwind CSS.
+- **[pokemon-battle-backend](https://github.com):** A Node.js and Express API handling the game's logic and database operations.
+- **[capstone-1](https://github.com):** A frontend web development project completed during my bootcamp.
 
+---
+
+### 📬 Let's Connect!
+
+I'm interested in connecting with other developers, learning from their experiences and working on web development or cloud-related projects.
+
+- **Email:** aghdoubehayat@gmail.com
