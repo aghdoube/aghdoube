@@ -1,4 +1,4 @@
-# Hi there, I'm Hayat!
+# Hi there, I'm Hayat! 
 
 I'm a **Junior Full-Stack Web Developer currently learning AWS Cloud Engineering**.
 
@@ -20,12 +20,12 @@ Recently, I've started focusing more on Linux, networking and AWS. I'm currently
 
 ### 🚀 My Projects
 
-- **[aws-ec2-lab](https://github.com):** My first AWS infrastructure exercises, including launching EC2 instances, configuring security groups and using User Data scripts to automate server setup.
-- **[linux-practice](https://github.com):** A collection of Linux command-line exercises, Bash scripts and basic Python file operations.
+- **[aws-ec2-lab](https://github.com):** My first AWS project. I used a Bash User Data script to install Nginx automatically when launching an EC2 instance.
+- **[linux-practice](https://github.com):** A collection of Linux exercises, Bash scripts, cron jobs and basic Python monitoring scripts.
 - **[skillswap-frontend](https://github.com):** React and Tailwind CSS frontend for my bootcamp final project, where users can share skills and connect with others.
-- **[pokemon-battle-frontend](https://github.com):** A React 19 single-page application for a Pokémon Battle game, styled with Tailwind CSS.
-- **[pokemon-battle-backend](https://github.com):** A Node.js and Express API handling the game's logic and database operations.
-- **[capstone-1](https://github.com):** A frontend web development project completed during my bootcamp.
+- **[skillswap-backend](https://github.com):** Backend for my SkillSwap project, handling user registration, login and profile management using Node.js, Express and MongoDB.
+- **[pokemon-battle-frontend](https://github.com):** A React 19 single-page application for the Pokémon Battle game, styled with Tailwind CSS.
+- **[pokemon-battle-backend](https://github.com):** Node.js and Express API for the Pokémon Battle game, handling game logic and database updates.
 
 ---
 
