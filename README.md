@@ -1,4 +1,4 @@
-# Hi there, I'm Hayat! 👋
+# Hi there, I'm Hayat! 
 
 I am a **Junior Full-Stack Web Developer transitioning into AWS Cloud Engineering**. Having completed a comprehensive web development bootcamp focused on building scalable, dynamic web applications with **React, Node.js, Express, and MongoDB**, I am passionate about writing clean, efficient code. 
 
